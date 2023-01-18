@@ -8,3 +8,8 @@ ul {
 li {
     font-size: 2rem;
 }
+
+li:hover {
+    color: white;
+    background-color: black;
+}
