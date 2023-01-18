@@ -2,4 +2,9 @@ ul {
     list-style: none;
     display: flex;
     justify-content: right;
+    gap: 30px;
+}
+
+li {
+    font-size: 2rem;
 }
