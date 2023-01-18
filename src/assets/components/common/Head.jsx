@@ -5,7 +5,10 @@ const Head = () => {
   return (
     <headers>
       <ul>
-        <li></li>
+        <li>Home </li>
+        <li>Contacts </li>
+        <li>Gallery </li>
+        <li>Abouts </li>
       </ul>
     </headers>
   );
