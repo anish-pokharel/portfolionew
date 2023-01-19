@@ -3,3 +3,10 @@
     --darkcode: #332e29;
     --lightcolor: #fff;
 }
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
