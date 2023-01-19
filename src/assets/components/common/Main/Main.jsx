@@ -9,6 +9,14 @@ const main = () => {
             I'm a <br />
             <span>Anish Pokharel</span>
           </h1>
+          <h3>Software Developer</h3>
+          <ul className="social-media">
+            <li>
+              <a href="#" className="flex">
+                <i className="fab fa-facebook-f"></i>
+              </a>
+            </li>
+          </ul>
         </div>
       </div>
     </header>
